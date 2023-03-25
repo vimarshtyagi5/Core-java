@@ -26,6 +26,7 @@ public class aaa2a {
        for(int k=0;k<a.length;k++)
        {
            System.out.print(a[i]+" ");
+           System.out.println("hello there ");
        }
 
     }
